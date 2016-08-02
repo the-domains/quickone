@@ -1,0 +1,14 @@
+layout_spectrum: 0.08372684638015926
+typography_spectrum: 0.8256027402821928
+color:
+  brandStrength: 0.44752893527038395
+  lightness: 0.1033267171587795
+  saturation: 0.9333367054350674
+  rhythmicContrast: 0.046763289952650666
+  brandColors:
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
+name: QuickOne
